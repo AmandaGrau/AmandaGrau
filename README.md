@@ -7,7 +7,7 @@ Junior Cybersecurity Analyst | CompTIA Security+ Certified
 
 [![Email](https://img.shields.io/badge/Email-00c176?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agrau.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-333c76?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmandaGrau)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AmandaGrau)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amandargrau)
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com) -->
 
 </div>
