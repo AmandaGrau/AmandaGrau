@@ -11,7 +11,7 @@ Junior Cybersecurity Analyst | CompTIA Security+ Certified
 
 ##
 ### About Me
-<img align="right" alt="Terminal" width="340" height="224" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
+<img align="right" alt="Terminal" width="320" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
 
 + I'm endlessly curious with a healthy level of suspicion and skepticism,
   which makes me perfect for security. 
