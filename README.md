@@ -1,6 +1,6 @@
 <div align="center">
 
-<strong style="font-size: 2.5em;">Hello! I'm Amanda Grau.</strong><br>
+<strong style="font-size: 12.5rem;">Hello! I'm Amanda Grau.</strong><br>
 Junior Cybersecurity Analyst | CompTIA Security+ Certified
 
 [![Email](https://img.shields.io/badge/Email-00c176?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agrau.dev@gmail.com)
@@ -11,10 +11,10 @@ Junior Cybersecurity Analyst | CompTIA Security+ Certified
 
 ##
 ### About Me
+<img align="right" alt="Terminal" width="340" height="224" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
 
-<img align="right" alt="Terminal" width="330" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
-
-+ I'm endlessly curious with a healthy level of suspicion and skepticism, which makes me perfect for security. 
++ I'm endlessly curious with a healthy level of suspicion and skepticism,
+  which makes me perfect for security. 
 + Currently on the hunt for my first **cybersecurity analyst** role 
 + **CompTIA Security+ Certified**
 + Serial binger of anything true crime
