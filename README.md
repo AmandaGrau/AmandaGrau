@@ -83,8 +83,8 @@ Junior Cybersecurity Analyst | CompTIA Security+ Certified
 
 <img src="https://raw.githubusercontent.com/AmandaGrau/Assets/main/port-scanner.png"
     alt="Port Scanner GUI" 
-     width="100%" 
-     style="margin-top: 15px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); height: 350px; width: 400; object-fit: cover;"/>
+     width="50%" 
+     style="margin-top: 15px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); height: 350px; width: 350; object-fit: cover;"/>
 
 <div align="left">
 
