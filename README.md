@@ -1,14 +1,13 @@
 <div align="center">
 
 <strong style="font-size: 2.5em;">Hello! I'm Amanda Grau.</strong><br>
-Junior Cybersecurity Analyst | CompTIA Security+ Certified
+Cybersecurity Professional | CompTIA Security+ Certified | Seeking Security Analyst Role
 
 <br>
 
 [![Email](https://img.shields.io/badge/Email-00c176?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agrau.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-333c76?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmandaGrau)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AmandaGrau)
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amandargrau)
 
 </div>
 
@@ -18,39 +17,25 @@ Junior Cybersecurity Analyst | CompTIA Security+ Certified
 
 <img align="right" alt="Terminal" width="320" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
 
-+ I'm endlessly curious with a healthy level of suspicion and skepticism, which makes me perfect for security. 
-+ Currently on the hunt for my first **cybersecurity analyst** role 
-+ **CompTIA Security+ Certified**
-+ Serial binger of anything true crime
-+ I've never met an animal I didn't like (even spiders get a pass).
+I'm interested in work where I can dig into security problems, figure out what's broken, and help build defenses that actually protect organizations.
+
++ Got into cybersecurity after watching IT professionals respond to a ransomware attack. Seeing how one overlooked vulnerability gave attackers access to everything hooked me on security
++ Built technical foundation through software engineering (Python, system-level thinking), then focused on incident response, network analysis, and SIEM investigation
++ CompTIA Security+ certified with 20+ documented security investigations
++ Currently seeking first SOC/security analyst role
++ Particularly interested in digital forensics and incident investigation: fascinated by how digital evidence cracks cases
 
 <br>
 
 ##
 
-### Tech
+### My Path to Cybersecurity
 
-<div align="center">
+I first became interested in cybersecurity while watching IT professionals work to restore systems following a ransomware attack at a small business where I worked. Operations had ground to a halt, and I was fascinated watching the incident response team methodically investigate the attack vector, contain the damage, and rebuild defenses. What really caught my attention was how they traced the initial compromise back to an unsecured print/scan port—a single overlooked vulnerability that gave attackers access to everything.
 
-![Wireshark](https://img.shields.io/badge/Wireshark-3B82F6?style=for-the-badge&logo=wireshark&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-00c176?style=for-the-badge&logo=tenable&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-EF4444?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-AB47BC?style=for-the-badge&logo=metasploit&logoColor=white)
-![Security Onion](https://img.shields.io/badge/Security%20Onion-F97316?style=for-the-badge&logo=burpsuite&logoColor=white)
+In February 2024, I completed a full-stack software engineering program to build a technical foundation, particularly in Python and system-level thinking. Since then, I've focused on cybersecurity: documenting investigations, analyzing network traffic, and writing Python scripts for security automation.
 
-
-</div>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-AB47BC?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F97316?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-FFCA28?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-3B82F6?style=for-the-badge&logo=css&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-EF4444?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-10B981?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</div>
+I'm ready to contribute to a security team where I can learn from experienced analysts while applying my investigation skills, technical foundation, and focus on defenses that actually work.
 
 <br>
 
@@ -60,10 +45,10 @@ Junior Cybersecurity Analyst | CompTIA Security+ Certified
 
 <div align="center">
 
-| Certification |  Date | Issuer 
+| Certification |  Date | Credential |
 |---|---|---|
-| **CompTIA Security+** | Dec 2024 | CompTIA |
-| **Google Cybersecurity Professional** | Dec 2024 | Google |
+| **CompTIA Security+** | Dec 2024 | [View Credential](https://www.credly.com/badges/89bbd854-e26f-41dd-b0c6-b193e6d95510/public_url) |
+| **Google Cybersecurity Professional** | Dec 2024 | [View Credential](https://www.credly.com/badges/bb0de307-4921-43ef-9307-583492d04c71/public_url) |
 | **Software Engineering Certificate** | Feb 2024 | Hackbright Academy |
 
 </div>
@@ -72,7 +57,23 @@ Junior Cybersecurity Analyst | CompTIA Security+ Certified
 
 ##
 
-### Projects
+### Cybersecurity Portfolio
+
+<div align="center">
+
+**20+ documented security investigations** covering incident response, network traffic analysis, SIEM platforms (Splunk), malware analysis, and Python automation.
+
+Projects include brute force attack investigation, SYN flood DDoS analysis, DNS/ICMP troubleshooting, access control audits, security automation scripts, and comprehensive incident documentation.
+
+[![View Portfolio](https://img.shields.io/badge/View_Cybersecurity_Portfolio-00c176?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmandaGrau/cybersecurity-portfolio)
+
+</div>
+
+<br>
+
+##
+
+### Featured Projects
 
 <br>
 
@@ -135,27 +136,60 @@ Junior Cybersecurity Analyst | CompTIA Security+ Certified
 
 <br>
 
+##
+
+### Tech Stack
+
 <div align="center">
 
-### 🚀 More Projects Coming Soon!
+**Security Tools**
 
-*Currently working on: SOC lab | Network Traffic Analyzer | Automated Incident Response*
+![Wireshark](https://img.shields.io/badge/Wireshark-3B82F6?style=for-the-badge&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-3B82F6?style=for-the-badge&logo=tenable&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-3B82F6?style=for-the-badge&logo=security&logoColor=white)
+![tcpdump](https://img.shields.io/badge/tcpdump-3B82F6?style=for-the-badge&logo=linux&logoColor=white)
 
-[![View All Repositories](https://img.shields.io/badge/View_All_Repositories-333c76?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmandaGrau?tab=repositories)
+**Programming & Development**
 
-<br>
+![Python](https://img.shields.io/badge/Python-AB47BC?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-AB47BC?style=for-the-badge&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-AB47BC?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-AB47BC?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-AB47BC?style=for-the-badge&logo=linux&logoColor=white)
+
+**Frameworks & Standards**
+
+![NIST CSF](https://img.shields.io/badge/NIST_CSF-10B981?style=for-the-badge&logo=security&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-10B981?style=for-the-badge&logo=security&logoColor=white)
 
 </div>
+
+<br>
 
 ##
 
 <div align="center">
 
-**Thank you for checking out my profile!** 
+### Currently Building
+
+Working on hands-on security projects: SOC home lab setup, network traffic analyzer, automated incident response tools.
+
+[![View All Repositories](https://img.shields.io/badge/View_All_Repositories-333c76?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmandaGrau?tab=repositories)
+
+</div>
+
+<br>
+
+##
+
+<div align="center">
+
+**Thanks for checking out my profile!** 
 
 [![Email](https://img.shields.io/badge/Email-00c176?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agrau.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-333c76?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmandaGrau)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amandargrau)
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com) -->
+
+</div>
 
 ##
