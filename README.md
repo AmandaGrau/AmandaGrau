@@ -17,20 +17,6 @@ Cybersecurity Professional | CompTIA Security+ Certified | Seeking Security Anal
 
 <img align="right" alt="Terminal" width="320" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
 
-I'm interested in work where I can dig into security problems, figure out what's broken, and help build defenses that actually protect organizations.
-
-+ Got into cybersecurity after watching IT professionals respond to a ransomware attack. Seeing how one overlooked vulnerability gave attackers access to everything hooked me on security
-+ Built technical foundation through software engineering (Python, system-level thinking), then focused on incident response, network analysis, and SIEM investigation
-+ CompTIA Security+ certified with 20+ documented security investigations
-+ Currently seeking first SOC/security analyst role
-+ Particularly interested in digital forensics and incident investigation: fascinated by how digital evidence cracks cases
-
-<br>
-
-##
-
-### My Path to Cybersecurity
-
 I first became interested in cybersecurity while watching IT professionals work to restore systems following a ransomware attack at a small business where I worked. Operations had ground to a halt, and I was fascinated watching the incident response team methodically investigate the attack vector, contain the damage, and rebuild defenses. What really caught my attention was how they traced the initial compromise back to an unsecured print/scan port—a single overlooked vulnerability that gave attackers access to everything.
 
 In February 2024, I completed a full-stack software engineering program to build a technical foundation, particularly in Python and system-level thinking. Since then, I've focused on cybersecurity: documenting investigations, analyzing network traffic, and writing Python scripts for security automation.
