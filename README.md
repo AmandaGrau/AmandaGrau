@@ -61,9 +61,11 @@ A segmented virtual SOC I designed and built in VMware Workstation to practice m
 <div align="left">
 
  I founded [TraceMaven](https://tracemaven.com), a cybersecurity education site for people entering the field. I write step-by-step tutorials and lab write-ups on network security, log analysis, and home lab building.
+ 
 </div>
 
 <div align="center">
+ 
 [![Visit TraceMaven](https://img.shields.io/badge/Visit_TraceMaven-AB47BC?style=for-the-badge&logo=wordpress&logoColor=white)](https://tracemaven.com)
  
 </div>
@@ -75,11 +77,13 @@ A segmented virtual SOC I designed and built in VMware Workstation to practice m
 ### Cybersecurity Portfolio
  
 <div align="left">
+ 
 **20+ documented lab investigations** covering incident response, network traffic analysis, SIEM platforms (Security Onion), and malware analysis. Projects include brute force attack investigation, SYN flood DDoS analysis, DNS/ICMP troubleshooting, access control audits, security automation scripts, and incident documentation.
 
 </div>
 
 <div align="center">
+ 
 [![View Portfolio](https://img.shields.io/badge/View_Cybersecurity_Portfolio-00c176?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmandaGrau/cybersecurity-portfolio)
 
 </div>
@@ -109,7 +113,9 @@ A segmented virtual SOC I designed and built in VMware Workstation to practice m
 🔹 **Real-time results with clean GUI interface**  
  
 </div>
+
 <div align="center">
+ 
 [![Check It Out](https://img.shields.io/badge/Check_It_Out-3B82F6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmandaGrau/port_scanner)
  
 </div>
@@ -122,6 +128,7 @@ A segmented virtual SOC I designed and built in VMware Workstation to practice m
      style="margin-top: 15px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); max-height: 350px; max-width: 400; object-fit: cover;"/>
  
 <div align="left">
+ 
 ### [medMinder](https://github.com/AmandaGrau/medMinder)
  
 🔹 **Built with:** Python, Flask, PostgreSQL, Bootstrap    
@@ -130,10 +137,13 @@ A segmented virtual SOC I designed and built in VMware Workstation to practice m
 🔹 **Role-based access controls & audit trails**
  
 </div>
+
 <div align="center">
+ 
 [![Take A Look](https://img.shields.io/badge/Take_A_Look-AB47BC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmandaGrau/medMinder)
  
 </div>
+
 </td>
 </tr>
 </table>
@@ -141,59 +151,66 @@ A segmented virtual SOC I designed and built in VMware Workstation to practice m
 <br>
 
 ##
-
+ 
 ### Tech Stack
-
+ 
 <div align="center">
-
+ 
 **Security Tools**
-
+ 
+![Security Onion](https://img.shields.io/badge/Security_Onion-3B82F6?style=for-the-badge&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-3B82F6?style=for-the-badge&logo=wireshark&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-3B82F6?style=for-the-badge&logo=tenable&logoColor=white)
-![Suricata](https://img.shields.io/badge/Suricata-3B82F6?style=for-the-badge&logo=security&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-3B82F6?style=for-the-badge&logo=splunk&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-3B82F6?style=for-the-badge&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-3B82F6?style=for-the-badge&logo=pfsense&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-3B82F6?style=for-the-badge&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-3B82F6?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![tcpdump](https://img.shields.io/badge/tcpdump-3B82F6?style=for-the-badge&logo=linux&logoColor=white)
-
+ 
+**Identity & Systems**
+ 
+![Active Directory](https://img.shields.io/badge/Active_Directory-10B981?style=for-the-badge&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-10B981?style=for-the-badge&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-10B981?style=for-the-badge&logo=vmware&logoColor=white)
+ 
 **Programming & Development**
-
+ 
 ![Python](https://img.shields.io/badge/Python-AB47BC?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-AB47BC?style=for-the-badge&logo=javascript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-AB47BC?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-AB47BC?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-AB47BC?style=for-the-badge&logo=linux&logoColor=white)
-
+ 
 **Frameworks & Standards**
-
-![NIST CSF](https://img.shields.io/badge/NIST_CSF-10B981?style=for-the-badge&logo=security&logoColor=white)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-10B981?style=for-the-badge&logo=security&logoColor=white)
-
+ 
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-333c76?style=for-the-badge&logoColor=white)
+![NIST CSF](https://img.shields.io/badge/NIST_CSF-333c76?style=for-the-badge&logoColor=white)
+ 
 </div>
 
 <br>
 
 ##
-
+ 
 <div align="center">
-
-### Currently Building
-
-Working on hands-on security projects: SOC home lab setup, network traffic analyzer, automated incident response tools.
-
+ 
+### Currently Working On
+ 
+Working through TryHackMe's Cybersecurity 101 path, publishing lab tutorials on TraceMaven, and expanding my home SOC lab.
+ 
 [![View All Repositories](https://img.shields.io/badge/View_All_Repositories-333c76?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmandaGrau?tab=repositories)
-
+ 
 </div>
 
 <br>
 
 ##
-
+ 
 <div align="center">
-
+ 
 **Thanks for checking out my profile!** 
-
-[![Email](https://img.shields.io/badge/Email-00c176?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agrau.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-333c76?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmandaGrau)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amandargrau)
-
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-grau-cybersecurity/)
+[![TraceMaven](https://img.shields.io/badge/TraceMaven-AB47BC?style=for-the-badge&logo=wordpress&logoColor=white)](https://tracemaven.com)
+ 
 </div>
-
-##
