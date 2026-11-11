@@ -54,18 +54,32 @@ A segmented virtual SOC I designed and built in VMware Workstation to practice m
 
 <br>
 
+##
+ 
+### TraceMaven
+
+<div align="left">
+
+ I founded [TraceMaven](https://tracemaven.com), a cybersecurity education site for people entering the field. I write step-by-step tutorials and lab write-ups on network security, log analysis, and home lab building.
+</div>
+
+<div align="center">
+[![Visit TraceMaven](https://img.shields.io/badge/Visit_TraceMaven-AB47BC?style=for-the-badge&logo=wordpress&logoColor=white)](https://tracemaven.com)
+ 
+</div>
+
 <br>
 
 ##
-
+ 
 ### Cybersecurity Portfolio
+ 
+<div align="left">
+**20+ documented lab investigations** covering incident response, network traffic analysis, SIEM platforms (Security Onion), and malware analysis. Projects include brute force attack investigation, SYN flood DDoS analysis, DNS/ICMP troubleshooting, access control audits, security automation scripts, and incident documentation.
+
+</div>
 
 <div align="center">
-
-**20+ documented security investigations** covering incident response, network traffic analysis, SIEM platforms (Splunk), malware analysis, and Python automation.
-
-Projects include brute force attack investigation, SYN flood DDoS analysis, DNS/ICMP troubleshooting, access control audits, security automation scripts, and comprehensive incident documentation.
-
 [![View Portfolio](https://img.shields.io/badge/View_Cybersecurity_Portfolio-00c176?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmandaGrau/cybersecurity-portfolio)
 
 </div>
@@ -77,60 +91,49 @@ Projects include brute force attack investigation, SYN flood DDoS analysis, DNS/
 ### Featured Projects
 
 <br>
-
 <table width="100%" align="center">
 <tr>
-
 <td width="100%" align="center">
-
 <img src="https://raw.githubusercontent.com/AmandaGrau/Assets/main/port-scanner.png"
     alt="Port Scanner GUI" 
      width="100%" 
      style="margin-top: 15px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); height: 350px; width: 400; object-fit: cover;"/>
-
+ 
 <div align="left">
-
+ 
 ### [Port Scanner GUI](https://github.com/AmandaGrau/port_scanner)
-
+ 
 🔹 **Built with:** Python, Tkinter, Socket, Nmap       
 🔹 **Dual scanning methods (Socket + Nmap)**  
 🔹 **Multi-threaded non-blocking execution**  
 🔹 **Real-time results with clean GUI interface**  
-
+ 
 </div>
-
 <div align="center">
-
 [![Check It Out](https://img.shields.io/badge/Check_It_Out-3B82F6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmandaGrau/port_scanner)
-
+ 
 </div>
 
 <tr>
-
 <td width="100%" align="left">
-
 <img src="https://raw.githubusercontent.com/AmandaGrau/Assets/main/medMinder-home.png" 
     alt="medMinder App" 
      width="100%" 
      style="margin-top: 15px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); max-height: 350px; max-width: 400; object-fit: cover;"/>
-
+ 
 <div align="left">
-
 ### [medMinder](https://github.com/AmandaGrau/medMinder)
-
+ 
 🔹 **Built with:** Python, Flask, PostgreSQL, Bootstrap    
 🔹 **Secure prescription management platform**  
 🔹 **Patient data encryption & privacy controls**  
 🔹 **Role-based access controls & audit trails**
-
+ 
 </div>
-
 <div align="center">
-
 [![Take A Look](https://img.shields.io/badge/Take_A_Look-AB47BC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmandaGrau/medMinder)
-
+ 
 </div>
-
 </td>
 </tr>
 </table>
