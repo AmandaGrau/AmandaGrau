@@ -40,6 +40,23 @@ I'm looking for a SOC or NOC analyst role on a team where I can keep learning wh
 <br>
 
 ##
+ 
+### Home SOC Lab
+ 
+A segmented virtual SOC I designed and built in VMware Workstation to practice monitoring, triage, and documentation.
+ 
+🔹 **Stack:** pfSense firewall, Security Onion, Kali Linux, Windows Active Directory, Metasploitable2, Kioptrix  
+🔹 **Network:** Segmented LAN, DMZ, corporate, and SPAN subnets, with traffic mirrored for monitoring  
+🔹 **Practice:** Generating and analyzing attack traffic, triaging alerts, running vulnerability scans, and mapping activity to MITRE ATT&CK  
+🔹 **Documentation:** Network topology diagram, full build guides, and findings write-ups
+
+</div>
+
+<br>
+
+<br>
+
+##
 
 ### Cybersecurity Portfolio
 
