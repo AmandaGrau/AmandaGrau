@@ -15,13 +15,11 @@ Security+ Certified | SOC Analyst Candidate | Home SOC Lab | Houston, TX
 
 ### About Me
 
-<img align="right" alt="Terminal" width="320" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
-
-I first became interested in cybersecurity while watching IT professionals work to restore systems following a ransomware attack at a small business where I worked. Operations had ground to a halt, and I was fascinated watching the incident response team methodically investigate the attack vector, contain the damage, and rebuild defenses. What really caught my attention was how they traced the initial compromise back to an unsecured print/scan port—a single overlooked vulnerability that gave attackers access to everything.
-
-In February 2024, I completed a full-stack software engineering program to build a technical foundation, particularly in Python and system-level thinking. Since then, I've focused on cybersecurity: documenting investigations, analyzing network traffic, and writing Python scripts for security automation.
-
-I'm ready to contribute to a security team where I can learn from experienced analysts while applying my investigation skills, technical foundation, and focus on defenses that actually work.
+Years before I ever thought about a career change, the law firm where I worked was hit by ransomware. I brought in an outside IT firm, gave them access to the systems they needed, and watched their forensic work trace the breach back to a single unsecured print/scan port. It stuck with me.
+ 
+When the firm closed, I completed a full-stack software engineering program, but cybersecurity kept pulling me back. I want to be the one who blocks that harm, or at least limits the damage. And I love the investigation itself: digging in, getting hyper-focused, and finding the needle in the haystack.
+ 
+I'm looking for a SOC or NOC analyst role on a team where I can keep learning while contributing from day one.
 
 <br>
 
